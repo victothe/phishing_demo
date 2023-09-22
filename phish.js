@@ -1,0 +1,1 @@
+window.opener.location.replace("site_e.html");
